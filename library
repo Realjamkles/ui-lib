@@ -1,0 +1,11 @@
+
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/modern"))()
+--[[
+Functions:
+Lib:Tab(name)
+Tab:Button(text, func)
+Tab:DropDown(text, drops, func)
+Tab:Label(name, text)
+Tab:TextBox(text, func)
+Tab:Toggle(text, func)
+]]--
